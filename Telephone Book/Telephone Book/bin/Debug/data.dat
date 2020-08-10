@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <PhoneBook>
+    <id>1</id>
+    <Name>George</Name>
+    <LastName>Syrrakos</LastName>
+    <Phone>+306975661457</Phone>
+    <Email>geosyrr@gmail.com</Email>
+    <TK>15561</TK>
+    <State>Attica</State>
+    <Location>Cholargos</Location>
+    <Address>Metonos 71-73</Address>
+  </PhoneBook>
+  <PhoneBook>
+    <id>2</id>
+    <Name>Athanasios</Name>
+    <LastName>Syrrakos</LastName>
+    <Phone>+306987564158</Phone>
+    <Email>Asadsf@gmail.com</Email>
+    <TK>15561</TK>
+    <State>Attica</State>
+    <Location>Cholargos</Location>
+    <Address>Metonos 71-73</Address>
+  </PhoneBook>
+  <PhoneBook>
+    <id>3</id>
+    <Name>agdf</Name>
+    <LastName>gsgh</LastName>
+    <Phone>dfghdh</Phone>
+    <Email>fgdhdgh</Email>
+    <TK>16742</TK>
+    <State>fghhf</State>
+    <Location>fghf</Location>
+    <Address>fdghdfghf</Address>
+  </PhoneBook>
+  <PhoneBook>
+    <id>5</id>
+    <Name>Αλέξανδρος</Name>
+    <LastName>Καπετάνιος</LastName>
+    <Phone>69875412584</Phone>
+    <Email>asdfasfs@info.gr</Email>
+    <TK>15235</TK>
+    <State>Αττικής</State>
+    <Location>Βριλήσσια</Location>
+    <Address>Τζαβέλα 3</Address>
+  </PhoneBook>
+</DataSet1>

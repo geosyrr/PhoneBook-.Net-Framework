@@ -1,0 +1,10 @@
+C:\Users\geosi\source\repos\Telephone Book\Telephone Book\bin\Debug\Telephone Book.exe.config
+C:\Users\geosi\source\repos\Telephone Book\Telephone Book\bin\Debug\Telephone Book.exe
+C:\Users\geosi\source\repos\Telephone Book\Telephone Book\bin\Debug\Telephone Book.pdb
+C:\Users\geosi\source\repos\Telephone Book\Telephone Book\obj\Debug\Telephone Book.csprojAssemblyReference.cache
+C:\Users\geosi\source\repos\Telephone Book\Telephone Book\obj\Debug\Telephone_Book.Properties.Resources.resources
+C:\Users\geosi\source\repos\Telephone Book\Telephone Book\obj\Debug\Telephone Book.csproj.GenerateResource.cache
+C:\Users\geosi\source\repos\Telephone Book\Telephone Book\obj\Debug\Telephone Book.csproj.CoreCompileInputs.cache
+C:\Users\geosi\source\repos\Telephone Book\Telephone Book\obj\Debug\Telephone Book.exe
+C:\Users\geosi\source\repos\Telephone Book\Telephone Book\obj\Debug\Telephone Book.pdb
+C:\Users\geosi\source\repos\Telephone Book\Telephone Book\obj\Debug\Telephone_Book.Form1.resources
